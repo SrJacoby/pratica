@@ -1,0 +1,14 @@
+C:\Users\Luiz Augusto\Documents\estudos\c#\Aulas\pratica\pratica\bin\Debug\pratica.exe.config
+C:\Users\Luiz Augusto\Documents\estudos\c#\Aulas\pratica\pratica\bin\Debug\pratica.exe
+C:\Users\Luiz Augusto\Documents\estudos\c#\Aulas\pratica\pratica\bin\Debug\pratica.pdb
+C:\Users\Luiz Augusto\Documents\estudos\c#\Aulas\pratica\pratica\obj\Debug\pratica.csproj.AssemblyReference.cache
+C:\Users\Luiz Augusto\Documents\estudos\c#\Aulas\pratica\pratica\obj\Debug\pratica.F_Principal.resources
+C:\Users\Luiz Augusto\Documents\estudos\c#\Aulas\pratica\pratica\obj\Debug\pratica.Properties.Resources.resources
+C:\Users\Luiz Augusto\Documents\estudos\c#\Aulas\pratica\pratica\obj\Debug\pratica.csproj.GenerateResource.cache
+C:\Users\Luiz Augusto\Documents\estudos\c#\Aulas\pratica\pratica\obj\Debug\pratica.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Augusto\Documents\estudos\c#\Aulas\pratica\pratica\obj\Debug\pratica.exe
+C:\Users\Luiz Augusto\Documents\estudos\c#\Aulas\pratica\pratica\obj\Debug\pratica.pdb
+C:\Users\Luiz Augusto\Documents\estudos\c#\Aulas\pratica\pratica\obj\Debug\pratica.F_List.resources
+C:\Users\Luiz Augusto\Documents\estudos\c#\Aulas\pratica\pratica\obj\Debug\pratica.SecondPage.resources
+C:\Users\Luiz Augusto\Documents\estudos\c#\Aulas\pratica\pratica\obj\Debug\pratica.SecondFilho.resources
+C:\Users\Luiz Augusto\Documents\estudos\c#\Aulas\pratica\pratica\obj\Debug\pratica.F_ListView.resources
